@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding a **Good Problem** to solve using ML knowledge.
 - 💬 Ask me about the Fundamentals of ML, DL, and Python programming.
 - 📫 ***How to reach me:*** you can contact me on my E.mail Id: bp26012000@gmal.com.
-- ⚡ ***My New funny Challenge:*** Creating videos on 'ML problem solving' and post it on YouTube(Channel: CodeePy).
+
+<!-- - ⚡ ***My New funny Challenge:*** Creating videos on 'ML problem solving' and post it on YouTube(Channel: CodeePy).
+-->
