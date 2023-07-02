@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 
 - :school: Now I am pursuing my final year B.Tech in the Computer Science domain.
-- 🔭 I'm currently working on solving different problems in Kaggle.
-- 🌱 I’m currently learning Practical Machine Learning to implement in real life problems.
+- 🔭 I'm currently working at TCS as a Web Developer.
+- 🌱 Although I am a Web Developer in my current company, still I am learning Practical Machine Learning to implement in real life problems.
 - 👯 I’m looking to collaborate on ***ML or Data Science Projects***.
 - 🤔 I’m looking for help with finding a **Good Problem** to solve using ML knowledge.
 - 💬 Ask me about the Fundamentals of ML, DL, and Python programming.
